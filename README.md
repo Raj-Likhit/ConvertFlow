@@ -1,4 +1,4 @@
-# ConvertFlow ⚡
+# ConvertFlow
 
 > **Secure, Client-Side Image to PDF Converter**
 
@@ -9,7 +9,7 @@
 
 ConvertFlow is a high-performance, privacy-focused web application that converts images to PDF entirely within your browser. No files are ever uploaded to a server.
 
-## 🚀 Features
+## Features
 
 - **100% Client-Side**: Powered by WebAssembly and Web Workers. Your data never leaves your device.
 - **Ultra-Modern UI**: Glassmorphism aesthetic, Bento-grid layout, and framer-motion animations.
@@ -23,7 +23,7 @@ ConvertFlow is a high-performance, privacy-focused web application that converts
   - **Responsive**: Adapts from mobile dual-grid to desktop power-station.
 - **Format Support**: JPG, PNG, and HEIC (Apple Photos).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: React 18 + TypeScript + Vite
 - **Styling**: Tailwind CSS + Framer Motion
@@ -31,7 +31,7 @@ ConvertFlow is a high-performance, privacy-focused web application that converts
 - **PDF Generation**: jsPDF (custom stream implementation)
 - **Drag & Drop**: @dnd-kit/core
 
-## 🏃‍♂️ Quick Start
+## Quick Start
 
 1.  **Clone the repo**
     ```bash
@@ -54,10 +54,10 @@ ConvertFlow is a high-performance, privacy-focused web application that converts
     npm run build
     ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
